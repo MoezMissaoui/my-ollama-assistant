@@ -60,12 +60,6 @@ ollama serve
 flask run
 ```
 
-## API Endpoints
-
-- `POST /chat` - Send messages to the assistant
-- `GET /models` - List available models
-- `GET /health` - Check service health
-
 ## Project Structure
 
 ```
